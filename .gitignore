@@ -1,0 +1,13 @@
+# NVIDIA sources
+l4t/Linux_for_Tegra/
+
+# Build output
+out/
+
+# VS Code
+.vscode/
+
+# Misc
+*.log
+*.dtb
+*.dtbo

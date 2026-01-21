@@ -1,0 +1,1 @@
+# notes about L4T version & source sync
