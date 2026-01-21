@@ -11,3 +11,7 @@ out/
 *.log
 *.dtb
 *.dtbo
+
+l4t/Jetson_Linux_r36.4.4_aarch64.tbz2
+l4t/public_sources.tbz2
+l4t/Tegra_Linux_Sample-Root-Filesystem_r36.4.4_aarch64.tbz2
