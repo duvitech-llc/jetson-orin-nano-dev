@@ -22,6 +22,8 @@ RUN apt-get update && apt-get install -y \
     less \
     wget \
     ca-certificates \
+    qemu-user-static \
+    zstd \
     gcc-aarch64-linux-gnu \
     g++-aarch64-linux-gnu \
     && rm -rf /var/lib/apt/lists/*
