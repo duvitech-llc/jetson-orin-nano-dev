@@ -1,5 +1,5 @@
 # notes about L4T version & source sync
-
+https://developer.nvidia.com/embedded/jetson-linux-r3644
 
 ```bash
 cd l4t
